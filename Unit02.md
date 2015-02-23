@@ -1,3 +1,10 @@
+---
+layout: default
+title: "ECON200: Math for Economists"
+course_description: "A math-based economics course designed to provide the skills needed to solve fundamental problems in both macroeconomics and microeconomics by covering concepts in precalculus and calculus."
+next: ../Unit03
+previous: ../Unit01
+---
 **Unit 2: Temporal Optimization** <span id="2"></span> 
 *Humans perceive their environment in four dimensions.  The first three
 – length, width, and height – define our physical universe.  We can

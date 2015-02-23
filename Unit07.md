@@ -1,3 +1,10 @@
+---
+layout: default
+title: "ECON200: Math for Economists"
+course_description: "A math-based economics course designed to provide the skills needed to solve fundamental problems in both macroeconomics and microeconomics by covering concepts in precalculus and calculus."
+next: ../../../
+previous: ../Unit06
+---
 **Unit 7: Final Exam** <span id="7"></span> 
 -   **Final Exam: The Saylor Foundation’s “ECON200 Final Exam”**
     Link: The Saylor Foundation’s [“ECON200 Final

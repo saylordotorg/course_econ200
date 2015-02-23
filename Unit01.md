@@ -1,3 +1,10 @@
+---
+layout: default
+title: "ECON200: Math for Economists"
+course_description: "A math-based economics course designed to provide the skills needed to solve fundamental problems in both macroeconomics and microeconomics by covering concepts in precalculus and calculus."
+next: ../Unit02
+previous: ../Intro
+---
 **Unit 1: Basic Tools of Optimization in Economics** <span
 id="1"></span> 
 *Economics can be described as the study of how individuals, firms, and

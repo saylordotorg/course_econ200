@@ -1,3 +1,10 @@
+---
+layout: default
+title: "ECON200: Math for Economists"
+course_description: "A math-based economics course designed to provide the skills needed to solve fundamental problems in both macroeconomics and microeconomics by covering concepts in precalculus and calculus."
+next: ../Unit07
+previous: ../Unit05
+---
 **Unit 6: Microeconomic Theory and Applications** <span id="6"></span> 
 *Economists make many assumptions about the nature of supply and demand.
  Curves are smooth continuous functions and are nicely behaved in

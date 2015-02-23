@@ -1,3 +1,10 @@
+---
+layout: default
+title: "ECON200: Math for Economists"
+course_description: "A math-based economics course designed to provide the skills needed to solve fundamental problems in both macroeconomics and microeconomics by covering concepts in precalculus and calculus."
+next: ../Unit04
+previous: ../Unit02
+---
 **Unit 3: Financial Theory, Risk, and Applications** <span
 id="3"></span> 
 *Financial theory is predicated on the concept of inflation, or the

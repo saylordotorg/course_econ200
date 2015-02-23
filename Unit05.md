@@ -1,3 +1,10 @@
+---
+layout: default
+title: "ECON200: Math for Economists"
+course_description: "A math-based economics course designed to provide the skills needed to solve fundamental problems in both macroeconomics and microeconomics by covering concepts in precalculus and calculus."
+next: ../Unit06
+previous: ../Unit04
+---
 **Unit 5: Game Theory** <span id="5"></span> 
 *Game theory was first applied to economic problems by the
 Nobel-Prize-winning economist John Nash.  His discoveries were

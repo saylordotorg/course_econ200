@@ -1,3 +1,10 @@
+---
+layout: default
+title: "ECON200: Math for Economists"
+course_description: "A math-based economics course designed to provide the skills needed to solve fundamental problems in both macroeconomics and microeconomics by covering concepts in precalculus and calculus."
+next: ../Unit05
+previous: ../Unit03
+---
 **Unit 4: Equitable Division of Resources and Consumption** <span
 id="4"></span> 
 *Economics is sometimes classified as the science of scarcity.
