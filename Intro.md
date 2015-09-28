@@ -141,3 +141,4 @@ Thursday night, etc.
 - [Unit 5](https://legacy.saylor.org/econ200/Unit05/)
 - [Unit 6](https://legacy.saylor.org/econ200/Unit06/)
 - [Unit 7](https://legacy.saylor.org/econ200/Unit07/)
+- [Final Exam](http://saylordotorg.github.io/LegacyExams/ECON/ECON200/ECON200-FinalExam.html), [Answers](http://saylordotorg.github.io/LegacyExams/ECON/ECON200/ECON200-FinalExam-Answers.html)
