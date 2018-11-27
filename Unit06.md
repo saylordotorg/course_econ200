@@ -60,7 +60,7 @@ Upon successful completion of this unit, the student will be able to:
     Version 4.02: “Chapter 15: Supply and Demand Basics”**
     Link: Yoram Bauman’s *Quantum Microeconomics with Calculus, Version
     4.02*: [“Chapter 15: Supply and Demand
-    Basics”](http://www.saylor.org/site/wp-content/uploads/2012/07/ECON001_Bauman.pdf)
+    Basics”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/ECON001_Bauman.pdf)
     (PDF)  
       
      Instructions: Read pages 147–154.  
@@ -134,7 +134,7 @@ Upon successful completion of this unit, the student will be able to:
     Version 4.02: “Chapter 16: Taxes”**
     Link: Yoram Bauman’s *Quantum Microeconomics with Calculus, Version
     4.02*: [“Chapter 16:
-    Taxes”](http://www.saylor.org/site/wp-content/uploads/2012/07/ECON001_Bauman.pdf)
+    Taxes”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/ECON001_Bauman.pdf)
     (PDF)  
       
      Instructions: Read pages 155–164.  
@@ -225,7 +225,7 @@ Upon successful completion of this unit, the student will be able to:
     Version 4.02: “Chapter 17: Elasticities”**
     Link: Yoram Bauman’s *Quantum Microeconomics with Calculus, Version
     4.02*: [“Chapter 17:
-    Elasticities”](http://www.saylor.org/site/wp-content/uploads/2012/07/ECON001_Bauman.pdf)
+    Elasticities”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/ECON001_Bauman.pdf)
     (PDF)  
       
      Instructions: Read pages 165–172.  
@@ -314,7 +314,7 @@ Upon successful completion of this unit, the student will be able to:
     Version 4.02: “Chapter 18: Supply and Demand Details”**
     Link: Yoram Bauman’s *Quantum Microeconomics with Calculus, Version
     4.02*: [“Chapter Eighteen: Supply and Demand
-    Details”](http://www.saylor.org/site/wp-content/uploads/2012/07/ECON001_Bauman.pdf)
+    Details”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/ECON001_Bauman.pdf)
     (PDF)  
       
      Instructions: Read pages 173–180.  
@@ -367,11 +367,11 @@ Upon successful completion of this unit, the student will be able to:
     Economics: “Principles of Microeconomics Exam 2”**
     Link: Massachusetts Institute of Technology, Department of
     Economics: [“Principles of Microeconomics Exam
-    2”](http://www.saylor.org/site/wp-content/uploads/2013/04/ECON200-6.4-Assessment.pdf) (PDF)  
+    2”](https://resources.saylor.org/archived/wp-content/uploads/2013/04/ECON200-6.4-Assessment.pdf) (PDF)  
       
      Instructions: Complete questions 2 and 4. Once you are done, check
     your answers against the [solutions
-    file](http://www.saylor.org/site/wp-content/uploads/2013/04/ECON200-6.4-AssessmentSolutions.pdf).  
+    file](https://resources.saylor.org/archived/wp-content/uploads/2013/04/ECON200-6.4-AssessmentSolutions.pdf).  
       
      Completing these questions should take approximately 1 hour and 15
     minutes.  
@@ -389,9 +389,9 @@ Upon successful completion of this unit, the student will be able to:
     and “Appendix A”**
     Link: Yoram Bauman’s *Quantum Microeconomics with Calculus, Version
     4.02*: [“Chapter 20: Math: Deriving Supply and Demand
-    Curves”](http://www.saylor.org/site/wp-content/uploads/2012/07/ECON001_Bauman.pdf)
+    Curves”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/ECON001_Bauman.pdf)
     and [“Appendix
-    A”](http://www.saylor.org/site/wp-content/uploads/2012/07/ECON001_Bauman.pdf)
+    A”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/ECON001_Bauman.pdf)
     (PDF)  
       
      Instructions: Read pages 187–208 and 213–225.  Note that this

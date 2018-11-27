@@ -59,7 +59,7 @@ Upon successful completion of this unit, the student will be able to:
     Version 4.02: “Chapter 9: Sequential Move Games”**
     Link: Yoram Bauman’s *Quantum Microeconomics with Calculus, Version
     4.02*: [“Chapter 9: Sequential Move
-    Games”](http://www.saylor.org/site/wp-content/uploads/2012/07/ECON001_Bauman.pdf)
+    Games”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/ECON001_Bauman.pdf)
     (PDF)  
       
      Instructions: Read pages 93–102.  Note this reading covers the
@@ -203,7 +203,7 @@ Upon successful completion of this unit, the student will be able to:
     Version 4.02: “Chapter 10: Simultaneous Move Games”**
     Link: Yoram Bauman’s *Quantum Microeconomics with Calculus, Version
     4.02*: [“Chapter 10: Simultaneous Move
-    Games”](http://www.saylor.org/site/wp-content/uploads/2012/07/ECON001_Bauman.pdf)
+    Games”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/ECON001_Bauman.pdf)
     (PDF)  
       
      Instructions: Read pages 103–106.  
@@ -282,7 +282,7 @@ Upon successful completion of this unit, the student will be able to:
     Equilibrium”**
     Link: Yoram Bauman’s *Quantum Microeconomics with Calculus, Version
     4.02*: [“Chapter 12: Iterated Dominance and Nash
-    Equilibrium”](http://www.saylor.org/site/wp-content/uploads/2012/07/ECON001_Bauman.pdf)
+    Equilibrium”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/ECON001_Bauman.pdf)
     (PDF)  
       
      Instructions: Read pages 113–130.  Note that this reading also
@@ -371,7 +371,7 @@ games.*
     Version 4.02: “Chapter 13: Application: Auctions”**
     Link: Yoram Bauman’s *Quantum Microeconomics with Calculus, Version
     4.02*: [“Chapter 13: Application:
-    Auctions”](http://www.saylor.org/site/wp-content/uploads/2012/07/ECON001_Bauman.pdf)
+    Auctions”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/ECON001_Bauman.pdf)
     (PDF)  
       
      Instructions: Read pages 131–140.  

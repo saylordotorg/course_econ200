@@ -62,7 +62,7 @@ Upon successful completion of this unit, the student will be able to:
     Version 4.02: “Chapter 4: In?ation”**
     Link: Yoram Bauman’s *Quantum Microeconomics with Calculus, Version
     4.02*: [“Chapter 4:
-    In?ation”](http://www.saylor.org/site/wp-content/uploads/2012/07/ECON001_Bauman.pdf)
+    In?ation”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/ECON001_Bauman.pdf)
     (PDF)  
       
      Instructions: Read pages 53–58.  
@@ -209,7 +209,7 @@ Upon successful completion of this unit, the student will be able to:
     Version 4.02: “Chapter 5: Optimization and Risk”**
     Link: Yoram Bauman’s *Quantum Microeconomics with Calculus, Version
     4.02*: [“Chapter 5: Optimization and
-    Risk”](http://www.saylor.org/site/wp-content/uploads/2012/07/ECON001_Bauman.pdf)
+    Risk”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/ECON001_Bauman.pdf)
     (PDF)  
       
      Instructions: Read pages 59–66.  
@@ -266,7 +266,7 @@ Upon successful completion of this unit, the student will be able to:
     Version 4.02: “Chapter 6: Transition: Arbitrage”**
     Link: Yoram Bauman’s *Quantum Microeconomics with Calculus, Version
     4.02:* [“Chapter 6: Transition:
-    Arbitrage”](http://www.saylor.org/site/wp-content/uploads/2012/07/ECON001_Bauman.pdf)
+    Arbitrage”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/ECON001_Bauman.pdf)
     (PDF)  
       
      Instructions: Read pages 67–72.  
