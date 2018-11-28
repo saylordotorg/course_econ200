@@ -68,7 +68,7 @@ computer;
  √    be competent in the English language;  
   
  √    have read the [Saylor Student
-Handbook](https://resources.saylor.org/archived/wp-content/uploads/2012/05/Saylor-StudentHandbook.pdf);
+Handbook](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/05/Saylor-StudentHandbook.pdf);
 and  
   
  √    have completed [MA101: Single-Variable Calculus
@@ -91,7 +91,7 @@ following:
 -   YouTube: Yale University, Department of Economics
     [Lectures](http://www.youtube.com/user/YaleCourses?feature=watch)
 -   Yoram Bauman’s [Quantum Microeconomics with
-    Calculus](https://resources.saylor.org/archived/wp-content/uploads/2012/07/ECON001_Bauman.pdf),
+    Calculus](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/07/ECON001_Bauman.pdf),
     Version 4.02
 -   Khan Academy [“Economics
     Videos”](http://www.youtube.com/user/khanacademy?feature=watch)
