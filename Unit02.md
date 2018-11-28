@@ -56,7 +56,7 @@ Upon successful completion of this unit, the student will be able to:
     Version 4.02: “Chapter 2: Optimization over Time”**
     Link: Yoram Bauman’s Quantum Microeconomics with Calculus, Version
     4.02: [“Chapter 2: Optimization over
-    Time”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/ECON001_Bauman.pdf)
+    Time”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/07/ECON001_Bauman.pdf)
     (PDF)  
       
      Instructions: Read pages 29–42.  Note this reading also covers the
@@ -166,7 +166,7 @@ id="2.3"></span> 
     Version 4.02: “Chapter 3: Math: Trees and Fish”**
     Link: Yoram Bauman’s *Quantum Microeconomics with Calculus, Version
     4.02:* [“Chapter 3: Math: Trees and
-    Fish”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/ECON001_Bauman.pdf)
+    Fish”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/07/ECON001_Bauman.pdf)
     (PDF)  
       
      Instructions: Read pages 43–52.  

@@ -57,7 +57,7 @@ id="4.1"></span> 
     Version 4.02: “Chapter 7: Cake-Cutting”**
     Link: Yoram Bauman’s *Quantum Microeconomics with Calculus, Version
     4.02*: [“Chapter 7:
-    Cake-Cutting”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/ECON001_Bauman.pdf)
+    Cake-Cutting”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/07/ECON001_Bauman.pdf)
     (PDF)  
       
      Instructions: Read pages 75–84.  Note this reading also covers the
@@ -142,7 +142,7 @@ id="4.2"></span> 
     Version 4.02: “Chapter 8: Economics and Social Welfare”**
     Link: Yoram Bauman’s *Quantum Microeconomics with Calculus, Version
     4.02*: [“Chapter 8: Economics and Social
-    Welfare”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/ECON001_Bauman.pdf)
+    Welfare”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/07/ECON001_Bauman.pdf)
     (PDF)  
       
      Instructions: Read pages 85–92.  

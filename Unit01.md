@@ -72,7 +72,7 @@ Upon successful completion of this unit, you will be able to:
     Version 4.02*: “Chapter 1: Decision Theory”**
     Link: Yoram Bauman’s *Quantum Microeconomics with Calculus, Version
     4.02*: [“Chapter 1: Decision
-    Theory”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/ECON001_Bauman.pdf)
+    Theory”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/07/ECON001_Bauman.pdf)
     (PDF)  
       
      Instructions: Read pages 13–28. Note that this reading covers the
